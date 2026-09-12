@@ -1,5 +1,4 @@
-<img src="C:\Users\joaom\Downloads\cropped_circle_image.png" align="right" width="140" alt="João Ferreira">
-
+<img src="./nome-da-tua-foto.jpg" align="right" width="140" alt="João Ferreira">
 # João Ferreira 👋
 
 > **Electrical & Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)**
