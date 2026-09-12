@@ -1,5 +1,8 @@
-<img src="./nome-da-tua-foto.jpg" align="right" width="140" alt="João Ferreira">
-# João Ferreira 👋
+<h1>
+  João Ferreira 👋
+  <img src="https://github.com/user-attachments/assets/7c3ec71e-88f5-4cc7-97eb-0f8b7afb61d7" align="right" width="140" alt="João Ferreira">
+  <br clear="all">
+</h1>
 
 > **Electrical & Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)**
 > Energy Systems Specialist | Powertrain Lead @ TLMoto
