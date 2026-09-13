@@ -15,7 +15,7 @@
 * **[TLMoto Battery Pack](https://github.com/Kofuukuu/Battery-Pack-TLMoto)** 
   Directed a 7-person powertrain team. Engineered cell layout, thermal management, and routed the high-voltage circuit for a custom next-gen prototype.
 * **[Battery Pack ECM Simulation](https://github.com/Kofuukuu/tlmoto-battery-ecm)** 
-  Built a Python-based 2RC Equivalent Circuit Model simulating Li-ion discharge behavior, validated against real-world test data.
+  Built a Python-based 2RC Equivalent Circuit Model simulating Li-ion discharge behavior, validated against real-world test data (under development).
 * **[SmartFlowEV](https://github.com/smartflowev?tab=repositories)** 
   Developed a centralized power system using Raspberry Pi and a Z-Wave mesh network to dynamically prioritize charging and prevent grid overload. *(Capstone: 17/20)*
 
