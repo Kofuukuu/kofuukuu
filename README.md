@@ -1,7 +1,7 @@
 # Olá🪫
 
 > [!NOTE]
-> **🚧 Profile Under Construction**
+> **🚧 Profile Under Construction!**
 > I am currently migrating my portfolio and code to GitHub. A lot of project documentation, repositories, and scripts are still missing and being actively updated!
 
 > **Electrical & Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)**
