@@ -1,9 +1,12 @@
 # João Ferreira 👋
 
-> **Electrical & Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)**
-> *Energy Systems Specialist | Powertrain Lead @ TLMoto*
+> [!NOTE]
+> **🚧 Profile Under Construction**
+> I am currently migrating my portfolio and code to GitHub. A lot of project documentation, repositories, and scripts are still missing and being actively updated!
 
-Passionate about power systems, electric machines, and pushing the limits of EV performance through data-driven design.
+> **Electrical & Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)**
+> *Energy Systems Enthusiast | Former Powertrain Leader @ TLMoto*
+
 
 ---
 
@@ -64,3 +67,7 @@ Passionate about power systems, electric machines, and pushing the limits of EV 
 <a href="mailto:joaom580@hotmail.com">
   <img src="https://img.icons8.com/ios-filled/50/a3a3a3/mail.png" alt="Email" width="32">
 </a>
+
+<br><br>
+
+> <sub>🌱 *Currently updating this profile with the latest TLMoto powertrain documentation.*</sub>
