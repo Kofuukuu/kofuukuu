@@ -69,5 +69,3 @@
 </a>
 
 <br><br>
-
-> <sub>🌱 *Currently updating this profile with the latest TLMoto powertrain documentation.*</sub>
